@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">site</string>
+    <string name="Home">Home</string>
+    <string name="Apps">Apps</string>
+    <string name="Lucky_Winners">Winners</string>
+    <string name="Videos">Videos</string>
+</resources>
